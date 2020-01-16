@@ -7,7 +7,7 @@ import org.apache.ibatis.annotations.Select;
 import java.util.List;
 
 /**
- * @author weizhewu
+ * @author YangJing
  * @date 2020.1.15
  */
 public interface SectionMapper {

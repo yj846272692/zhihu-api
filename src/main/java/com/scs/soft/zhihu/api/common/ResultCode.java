@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author weizhewu
+ * @author YangJing
  * @date 2019/12/1
  **/
 public enum ResultCode {
